@@ -1,7 +1,4 @@
-# Julia Binder demo
+# Autodiff Julia B1Selective Pulse Design
 
-This is a demo of Julia functionality for the Binder project. Simply
-go to the URL below and it will launch an interactive Julia environment:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/autodiff_julia_b1selective/HEAD)
+A repository for version-controlling work on julia autodiff pulse design. 
 
